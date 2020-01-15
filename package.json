@@ -1,0 +1,16 @@
+{
+  "name": "resume-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cv_parser_multiformat.js",
+  "dependencies": {
+    "cv-parser-multiformats": "^1.1.5",
+    "textract": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
